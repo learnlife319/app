@@ -1,0 +1,14 @@
+{
+  "writing": [
+    {
+      "title": "nnn",
+      "content": "cccc",
+      "userId": 2,
+      "id": 3,
+      "reactions": {
+        "helpful": 1
+      }
+    }
+  ],
+  "lastId": 3
+}

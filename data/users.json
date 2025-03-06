@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "moha",
+      "password": "3dc9cf11e7ff1e8ed35e9f6d2c3a5e44c092b6d6c7a4c81c436b8a0850e46e9cede01854465ddf5f0b4c45ab7a6a6693772f21ceac02cd8723f56226bd5f8f1d.e4446dba02b0ba72b1d496742aa66cdf",
+      "id": 1
+    },
+    {
+      "username": "hek",
+      "password": "3a45f4bf9e2c549b672a9e93d681c54315d3d9f0ea26e5dd3bccb7abc04d6f14caa44ee3ff176755d3e8197ec3f7ae79013516e621051d0acc8f692f11b1cee0.30c8fb1dd0ddcbd49103953f4b5a6a77",
+      "id": 2,
+      "telegramChannelId": "-1002369564811",
+      "isAdmin": true
+    },
+    {
+      "username": "Moha",
+      "password": "06a492d9c3be50da334f1f467d5035e6e8e0d3695db95fb22ffde3074617e856b2cc2e53e62f056a5f5bbc1aa454b8e59ca95b8ae5ca891a723c9771808aca36.4fe2af1908d02b33db2aaa9117b6cb8e",
+      "id": 3
+    }
+  ],
+  "lastId": 3
+}

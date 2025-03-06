@@ -1,0 +1,28 @@
+{
+  "vocabulary": [
+    {
+      "word": "good",
+      "definition": "nice",
+      "example": "Writing Practice New Writing",
+      "folderId": 2,
+      "userId": 2,
+      "id": 1,
+      "reactions": {
+        "helpful": 1,
+        "learned": 2
+      }
+    },
+    {
+      "word": "word",
+      "definition": "def",
+      "example": "Reading Practice  Organize your reading materials Vocabulary Practice  Organize your vocabulary lists",
+      "folderId": 2,
+      "userId": 2,
+      "id": 2,
+      "reactions": {
+        "helpful": 0
+      }
+    }
+  ],
+  "lastId": 2
+}
